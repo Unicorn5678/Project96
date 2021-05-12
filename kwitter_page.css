@@ -1,0 +1,24 @@
+html, body
+{
+height: 100%;
+margin:0;
+text-align:center;
+}
+
+body{
+    background-image: linear-gradient(to right top,cadetblue,aqua, cyan, aquamarine, darkseagreen);
+}
+
+img{
+    height: 100px;
+    width:100px;
+}
+
+.login_div{
+    background-color: azure;
+    margin-left: 500px;
+}
+
+.color_white{
+    color:darkmagenta;
+}
